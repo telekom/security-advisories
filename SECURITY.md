@@ -2,20 +2,29 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+The following versions are currently supported and receive security updates:
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| Product | Version | Supported |
+| ------- | ------- | --------- |
+| Product name | 5.1.x | :white_check_mark: |
+| Product name | 5.0.x | :x: |
+| Product name | 4.0.x | :white_check_mark:  |
+| Product name | < 4.0 | :x: |
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+If you believe you have discovered a security vulnerability in a licensed product, please report it through the private communication channel provided to you with the license.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Please do not report vulnerabilities through public GitHub issues, pull requests, or other public discussion channels. This repository is not an appropriate place to submit a security report.
+
+When reporting a vulnerability, please include:
+
+- affected product and version
+- description of the vulnerability
+- steps to reproduce the issue
+- potential impact and severity
+- any suggested mitigation or workaround
+
+We will review the report and follow up with the next steps as appropriate.
+
+Please do not disclose the vulnerability publicly until a coordinated resolution has been reached.

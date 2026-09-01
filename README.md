@@ -1,19 +1,23 @@
 # Security Advisories
 
-This repository contains official security advisories published by **T-Systems International GmbH** in response to reported Common Vulnerabilities and Exposures (CVEs).
+This repository contains official security advisories published by **T-Systems International GmbH** and related public security notices for vendor-reported vulnerabilities.
 
 ## Purpose
 
-As a software vendor, T-Systems International GmbH is committed to transparency and responsible disclosure. This repository serves as the authoritative reference point for:
+T-Systems International GmbH is committed to transparency and responsible disclosure. This repository provides an authoritative reference for:
 
-- Vendor confirmation of reported vulnerabilities
-- Affected product versions and build numbers
-- Remediation guidance, patches, and workarounds
-- Official vendor statements
+- confirmation of reported vulnerabilities
+- affected product versions and build numbers
+- remediation guidance, patches, and workarounds
+- official vendor statements and advisory notices
+
+## Scope
+
+This repository is intended for security researchers, customers, partners, and internal stakeholders who need trusted information about security issues affecting products and services.
 
 ## Products
 
-- [ImageMaster](./ImageMaster/)
+This repository is being populated with published advisories as they become available. Additional product entries will be added over time.
 
 ## Code of Conduct
 
@@ -22,7 +26,8 @@ This project has adopted the [Contributor Covenant](https://www.contributor-cove
 By participating in this project, you agree to abide by its [Code of Conduct](./CODE_OF_CONDUCT.md) at all times.
 
 ## Licensing
-Copyright (c) XXXX Deutsche Telekom AG
+
+Copyright (c) 2026 Deutsche Telekom AG
 
 All content in this repository is licensed under at least one of the licenses found in [./LICENSES](./LICENSES); you may not use this file, or any other file in this repository, except in compliance with the Licenses. 
 You may obtain a copy of the Licenses by reviewing the files found in the [./LICENSES](./LICENSES) folder.
